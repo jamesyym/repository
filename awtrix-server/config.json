@@ -7,6 +7,7 @@
   "url": "https://awtrixdocs.blueforcer.de/#/",
   "startup": "system",
   "boot": "auto",
+  "init": false,
   "webui":"http://[HOST]:[PORT:7000]",
   "ports": {
     "7000/tcp": 7000,
